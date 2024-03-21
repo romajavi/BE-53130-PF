@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+{
+  "name": "product-manager",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --config jest.config.cjs",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "express": "^4.19.1",
+    "filesystem": "^1.0.1",
+    "fs": "^0.0.1-security"
+  },
+  "description": ""
+}
+=======
+{
+  "name": "product-manager",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --config jest.config.cjs",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "express": "^4.19.1",
+    "filesystem": "^1.0.1",
+    "fs": "^0.0.1-security"
+  },
+  "description": ""
+}
+>>>>>>> 3afcc46643eb70dad5b2e9950f496089f0d34644
